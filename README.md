@@ -1,8 +1,9 @@
 
 # Symfony CLI Docker
 
-An image with Symfony CLI and Composer on top of PHP 8 Alpine
+An image with Symfony CLI and Composer on top of PHP 8 Alpine.
 
+Docker Hub repo: https://hub.docker.com/r/diogenesc/symfony-cli
 
 ## Usage/Examples
 
